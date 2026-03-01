@@ -1,7 +1,7 @@
 import fs from "fs";
 import pdf from "pdf-parse";
 
-// Parse PDF → return array of movie text blocks
+
 async function parsePDF(pdfPath) {
   // Read PDF as binary buffer
   const dataBuffer = fs.readFileSync(pdfPath);

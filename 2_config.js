@@ -4,7 +4,7 @@ import { Pinecone } from "@pinecone-database/pinecone";
 import { ChatGoogleGenerativeAI } from "@langchain/google-genai";
 import { GoogleGenAI } from "@google/genai";
 
-dotenv.config(); // Load environment variables
+dotenv.config(); 
 
 // Neo4j driver (connection pool)
 const driver = neo4j.driver(
@@ -12,7 +12,7 @@ const driver = neo4j.driver(
   neo4j.auth.basic(process.env.NEO4J_USERNAME, process.env.NEO4J_PASSWORD)
 );
 
-// Pinecone index reference
+// Pinecone index referance 
 const pinecone = new Pinecone({ apiKey: process.env.PINECONE_API_KEY });
 const pineconeIndex = pinecone.index(process.env.PINECONE_INDEX_NAME);
 

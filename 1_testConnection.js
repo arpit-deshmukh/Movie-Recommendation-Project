@@ -23,7 +23,7 @@ async function testConnections() {
 
   // Gemini LLM
   try {
-    const response = await llm.invoke("Say 'Gemini Connected!' and nothing else.");
+    const response = await llm.invoke("Say 'Gemini Connected!'");
     console.log("Gemini LLM:", response.content.trim());
   } catch (err) {
     console.error("Gemini LLM Error:", err.message);
