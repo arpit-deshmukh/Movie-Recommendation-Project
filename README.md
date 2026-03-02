@@ -16,9 +16,20 @@ This project builds a **GraphRAG (Graph Retrieval-Augmented Generation)** system
 4. 🔎 Pinecone stores semantic embeddings
 5. 💬 User queries are answered using hybrid retrieval (Graph + Vector)
 
-   <img width="890" height="395" alt="image" src="https://github.com/user-attachments/assets/20d3e8bd-ea34-4bfa-95c9-0b46b68571de" />
+   <p>
+     <br/><br/>
+   <img align="centre" width="751" height="672" alt="image" src="https://github.com/user-attachments/assets/20d3e8bd-ea34-4bfa-95c9-0b46b68571de" />
 
-   <img width="452" height="387" alt="image" src="https://github.com/user-attachments/assets/98ad92cc-f8d6-442f-ba2d-cc2c14fb5f18" />
+ <br/><br/>
+   <img  align="centre" width="751" height="672" alt="image" src="https://github.com/user-attachments/assets/0cc063c1-7467-420f-b2d0-e04b49eb0707" />
+   <br/><br/>
+      <img   align="centre" width="550" height="387" alt="image" src="https://github.com/user-attachments/assets/98ad92cc-f8d6-442f-ba2d-cc2c14fb5f18" />
+
+      
+   </p>
+
+
+
 
 ## ⚙️ Installation
 
