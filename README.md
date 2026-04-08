@@ -17,16 +17,19 @@ This project builds a **GraphRAG (Graph Retrieval-Augmented Generation)** system
 5. 💬 User queries are answered using hybrid retrieval (Graph + Vector)
 
    <p>
-     <br/><br/>
-   <img align="centre" width="751" height="672" alt="image" src="https://github.com/user-attachments/assets/20d3e8bd-ea34-4bfa-95c9-0b46b68571de" />
+   
 
- <br/><br/>
-   <img  align="centre" width="751" height="672" alt="image" src="https://github.com/user-attachments/assets/0cc063c1-7467-420f-b2d0-e04b49eb0707" />
-   <br/><br/>
-      <img   align="centre" width="550" height="387" alt="image" src="https://github.com/user-attachments/assets/98ad92cc-f8d6-442f-ba2d-cc2c14fb5f18" />
+<h2 align="center">📸 Project Screenshots</h2>
 
-      
-   </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3295c683-5521-4439-9cc4-6384545dfd76" style="width:45%; height:250px; object-fit:cover;" />
+  <img src="https://github.com/user-attachments/assets/2ac29cb7-42f2-4b49-a3ca-d1182c9f7fc2" style="width:45%; height:250px; object-fit:cover;" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b44497b0-5c37-4cd1-94c1-355357240da3" style="width:45%; height:250px; object-fit:cover;" />
+  <img src="https://github.com/user-attachments/assets/67b02805-8627-425c-8a39-95fa862b759e" style="width:45%; height:250px; object-fit:cover;" />
+</p>
 
 
 
