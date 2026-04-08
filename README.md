@@ -17,6 +17,20 @@ This project builds a **GraphRAG (Graph Retrieval-Augmented Generation)** system
 5. 💬 User queries are answered using hybrid retrieval (Graph + Vector)
 
    <p>
+
+   <br/><br/>
+
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/20d3e8bd-ea34-4bfa-95c9-0b46b68571de"
+       style="width:44%; height:260px; object-fit:cover; border-radius:10px; margin-right:8px;" /><img
+  src="https://github.com/user-attachments/assets/98ad92cc-f8d6-442f-ba2d-cc2c14fb5f18"
+       style="width:44%; height:260px; object-fit:cover; border-radius:10px;" />
+</p>
+
+  <br/><br/>
+
+  <br/><br/>
+
    
 
 <h2 align="center">📸 Project Screenshots</h2>
