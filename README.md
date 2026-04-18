@@ -4,6 +4,10 @@ A **Graph + Vector + LLM powered Movie Recommendation Engine** built using **Gem
 
 This project combines **structured knowledge graphs** and **semantic search** to generate intelligent, context-aware movie recommendations using a GraphRAG architecture.
 
+
+
+🔗 **Live Demo:** [GraphRAG Movie Recommendation System](https://movie-recommendation-project-v1.vercel.app/)
+
 ## 🚀 Project Overview
 
 Traditional recommendation systems rely only on collaborative filtering or metadata.
